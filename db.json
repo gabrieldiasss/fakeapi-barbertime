@@ -2,13 +2,14 @@
     "barbers": [
         {
             "id": 1,
-            "avatar_url": "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F248921266_174072708255435_2151316938031383009_n.jpg%3Fccb%3D11-4%26oh%3Dea1f70701f8c57eda904ca2b48affe74%26oe%3D61820302&t=l&u=5511967431634%40c.us&i=1635367425&n=2zcsVE1N8pq1%2BE1Alvr821d17HhDUog4vTMEkQeHXu0%3D",
+            "avatar_url": "https://docs.google.com/uc?export=download&id=12sq9bfcftfBbOK4r8sVc1PNExzaZxM46",
             "name": "Edu Barber",
             "stars": "4"
         },
+
         {
             "id": 2,
-            "avatar_url": "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F204776797_568416350976910_1817379469340577454_n.jpg%3Fccb%3D11-4%26oh%3D40ab0042b75807e779c8b70294b37c77%26oe%3D618258B0&t=l&u=5511947832749%40c.us&i=1633130375&n=CHTNoUc5kJCeWLsevOu%2Fwxs%2FbRXnnsUAy1sJImmHGBw%3D",
+            "avatar_url": "https://docs.google.com/uc?export=download&id=1VkPb1KoQS8YE4Cz9qT4ESLhETWIDVKMu",
             "name": "Braga Barber",
             "stars": "4.8"
         },
@@ -20,19 +21,19 @@
         },
         {
             "id": 4,
-            "avatar_url": "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F181590911_901400507147570_1368013520807747442_n.jpg%3Fccb%3D11-4%26oh%3Dc60abfecae132cefef749d4da710cb36%26oe%3D61820D29&t=l&u=5511991040961%40c.us&i=1633533765&n=QlmWIDSAiXvjppY2EHekN0Wfssxl8ICHv4Bo2PqwO%2Bs%3D",
+            "avatar_url": "https://docs.google.com/uc?export=download&id=1DzlW2vJ6Jfctv2X2ZUX7FWNBq4-3cIVm",
             "name": "Rafa Barber",
             "stars": "5"
         },
         {
             "id": 5,
-            "avatar_url": "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F167943857_631518304901869_965702184778406430_n.jpg%3Fccb%3D11-4%26oh%3D4f9e1beba2e8b47dfa6bf384945d0be7%26oe%3D618169BE&t=l&u=5511958697885%40c.us&i=1630909470&n=xXjoPAQdRHBaxd1jwPDoSDmP0hmfoSmZd1qcqgva20Q%3D",
+            "avatar_url": "https://docs.google.com/uc?export=download&id=1Ccpwq1793p2sExIdyGo6O3bUxBlSj-b5",
             "name": "Boulos Barber",
             "stars": "2.8"
         },
         {
             "id": 6,
-            "avatar_url": "https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F204776797_568416350976910_1817379469340577454_n.jpg%3Fccb%3D11-4%26oh%3D40ab0042b75807e779c8b70294b37c77%26oe%3D618258B0&t=l&u=5511947832749%40c.us&i=1633130375&n=CHTNoUc5kJCeWLsevOu%2Fwxs%2FbRXnnsUAy1sJImmHGBw%3D",
+            "avatar_url": "https://docs.google.com/uc?export=download&id=1qb7z5kegTkJmaL17Cn3_hgztPo3ZyRyu",
             "name": "Dan Barber",
             "stars": "3"
         }
