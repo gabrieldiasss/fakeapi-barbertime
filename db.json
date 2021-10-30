@@ -45,8 +45,8 @@
                     "price": "60"
                 },
                 {
-                    "name": "Platinado",
-                    "price": "80"
+                    "name": "Luzes",
+                    "price": "50"
                 }
 
             ]
@@ -70,8 +70,8 @@
                     "price": "60"
                 },
                 {
-                    "name": "Platinado",
-                    "price": "80"
+                    "name": "Hidratação",
+                    "price": "50"
                 }
 
             ]
@@ -95,8 +95,8 @@
                     "price": "60"
                 },
                 {
-                    "name": "Platinado",
-                    "price": "80"
+                    "name": "Pézinho",
+                    "price": "15"
                 }
 
             ]
@@ -121,7 +121,7 @@
                     "price": "60"
                 },
                 {
-                    "name": "Platinado",
+                    "name": "Progressiva",
                     "price": "80"
                 }
 
@@ -146,7 +146,7 @@
                     "price": "60"
                 },
                 {
-                    "name": "Platinado",
+                    "name": "Relaxamento",
                     "price": "80"
                 }
 
