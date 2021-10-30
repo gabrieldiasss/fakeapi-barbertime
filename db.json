@@ -4,38 +4,153 @@
             "id": 1,
             "avatar_url": "https://docs.google.com/uc?export=download&id=12sq9bfcftfBbOK4r8sVc1PNExzaZxM46",
             "name": "Edu Barber",
-            "stars": "4"
+            "stars": "4",
+            "services": [
+                {
+                    "name": "Corte de Cabelo",
+                    "price": "40"
+                },
+                {
+                    "name": "Barba",
+                    "price": "30"
+                },
+                {
+                    "name": "Corte + Barba",
+                    "price": "60"
+                },
+                {
+                    "name": "Platinado",
+                    "price": "80"
+                }
+
+            ]
         },
 
         {
             "id": 2,
             "avatar_url": "https://docs.google.com/uc?export=download&id=1VkPb1KoQS8YE4Cz9qT4ESLhETWIDVKMu",
             "name": "Braga Barber",
-            "stars": "4.8"
+            "stars": "4.8",
+            "services": [
+                {
+                    "name": "Corte de Cabelo",
+                    "price": "40"
+                },
+                {
+                    "name": "Barba",
+                    "price": "30"
+                },
+                {
+                    "name": "Corte + Barba",
+                    "price": "60"
+                },
+                {
+                    "name": "Platinado",
+                    "price": "80"
+                }
+
+            ]
         },
         {
             "id": 3,
             "avatar_url": "https://docs.google.com/uc?export=download&id=17w4DGTe0-3GVVeZvBVcBtgyMbCxUW7tt",
             "name": "Dias Barber",
-            "stars": "3.8"
+            "stars": "3.8",
+            "services": [
+                {
+                    "name": "Corte de Cabelo",
+                    "price": "40"
+                },
+                {
+                    "name": "Barba",
+                    "price": "30"
+                },
+                {
+                    "name": "Corte + Barba",
+                    "price": "60"
+                },
+                {
+                    "name": "Platinado",
+                    "price": "80"
+                }
+
+            ]
         },
         {
             "id": 4,
             "avatar_url": "https://docs.google.com/uc?export=download&id=1DzlW2vJ6Jfctv2X2ZUX7FWNBq4-3cIVm",
             "name": "Rafa Barber",
-            "stars": "5"
+            "stars": "5",
+            "services": [
+                {
+                    "name": "Corte de Cabelo",
+                    "price": "40"
+                },
+                {
+                    "name": "Barba",
+                    "price": "30"
+                },
+                {
+                    "name": "Corte + Barba",
+                    "price": "60"
+                },
+                {
+                    "name": "Platinado",
+                    "price": "80"
+                }
+
+            ]
+
         },
         {
             "id": 5,
             "avatar_url": "https://docs.google.com/uc?export=download&id=1Ccpwq1793p2sExIdyGo6O3bUxBlSj-b5",
             "name": "Boulos Barber",
-            "stars": "2.8"
+            "stars": "2.8",
+            "services": [
+                {
+                    "name": "Corte de Cabelo",
+                    "price": "40"
+                },
+                {
+                    "name": "Barba",
+                    "price": "30"
+                },
+                {
+                    "name": "Corte + Barba",
+                    "price": "60"
+                },
+                {
+                    "name": "Platinado",
+                    "price": "80"
+                }
+
+            ]
         },
         {
             "id": 6,
             "avatar_url": "https://docs.google.com/uc?export=download&id=1qb7z5kegTkJmaL17Cn3_hgztPo3ZyRyu",
             "name": "Dan Barber",
-            "stars": "3"
+            "stars": "3",
+            "services": [
+                {
+                    "name": "Corte de Cabelo",
+                    "price": "40"
+                },
+                {
+                    "name": "Barba",
+                    "price": "30"
+                },
+                {
+                    "name": "Corte + Barba",
+                    "price": "60"
+                },
+                {
+                    "name": "Platinado",
+                    "price": "80"
+                }
+
+            ]
         }
     ]
 }
