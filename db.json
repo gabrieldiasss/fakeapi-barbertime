@@ -7,18 +7,22 @@
             "stars": "4",
             "services": [
                 {
+                    "id": 1,
                     "name": "Corte de Cabelo",
                     "price": "40"
                 },
                 {
+                    "id": 2,
                     "name": "Barba",
                     "price": "30"
                 },
                 {
+                    "id": 3,
                     "name": "Corte + Barba",
                     "price": "60"
                 },
                 {
+                    "id": 4,
                     "name": "Platinado",
                     "price": "80"
                 }
@@ -33,18 +37,22 @@
             "stars": "4.8",
             "services": [
                 {
+                    "id": 1,
                     "name": "Corte de Cabelo",
                     "price": "40"
                 },
                 {
+                    "id": 2,
                     "name": "Barba",
                     "price": "30"
                 },
                 {
+                    "id": 3,
                     "name": "Corte + Barba",
                     "price": "60"
                 },
                 {
+                    "id": 4,
                     "name": "Luzes",
                     "price": "50"
                 }
@@ -58,18 +66,22 @@
             "stars": "3.8",
             "services": [
                 {
+                    "id": 1,
                     "name": "Corte de Cabelo",
                     "price": "40"
                 },
                 {
+                    "id": 2,
                     "name": "Barba",
                     "price": "30"
                 },
                 {
+                    "id": 3,
                     "name": "Corte + Barba",
                     "price": "60"
                 },
                 {
+                    "id": 4,
                     "name": "Hidratação",
                     "price": "50"
                 }
@@ -83,18 +95,22 @@
             "stars": "5",
             "services": [
                 {
+                    "id": 1,
                     "name": "Corte de Cabelo",
                     "price": "40"
                 },
                 {
+                    "id": 2,
                     "name": "Barba",
                     "price": "30"
                 },
                 {
+                    "id": 3,
                     "name": "Corte + Barba",
                     "price": "60"
                 },
                 {
+                    "id": 4,
                     "name": "Pézinho",
                     "price": "15"
                 }
@@ -109,18 +125,22 @@
             "stars": "2.8",
             "services": [
                 {
+                    "id": 1,
                     "name": "Corte de Cabelo",
                     "price": "40"
                 },
                 {
+                    "id": 2,
                     "name": "Barba",
                     "price": "30"
                 },
                 {
+                    "id": 3,
                     "name": "Corte + Barba",
                     "price": "60"
                 },
                 {
+                    "id": 4,
                     "name": "Progressiva",
                     "price": "80"
                 }
@@ -134,18 +154,22 @@
             "stars": "3",
             "services": [
                 {
+                    "id": 1,
                     "name": "Corte de Cabelo",
                     "price": "40"
                 },
                 {
+                    "id": 2,
                     "name": "Barba",
                     "price": "30"
                 },
                 {
+                    "id": 3,
                     "name": "Corte + Barba",
                     "price": "60"
                 },
                 {
+                    "id": 4,
                     "name": "Relaxamento",
                     "price": "80"
                 }
